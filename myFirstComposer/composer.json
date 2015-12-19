@@ -1,0 +1,10 @@
+{
+    "name": "yfsun/my-first-composer",
+    "authors": [
+        {
+            "name": "yfsun",
+            "email": "49943222@gm.nfu.edu.tw"
+        }
+    ],
+    "require": {}
+}
