@@ -6,5 +6,8 @@
             "email": "49943222@gm.nfu.edu.tw"
         }
     ],
-    "require": {}
+    "require": {
+        "monolog/monolog": "^1.17",
+        "nesbot/carbon": "^1.21.0"
+    }
 }
